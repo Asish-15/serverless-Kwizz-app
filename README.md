@@ -1,1 +1,1 @@
-# serverless-Kwizz-app
+# serverlesskwizz
